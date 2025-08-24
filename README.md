@@ -1,5 +1,5 @@
-# Intermediate SQL Sales Analysis
-
+# Intermediate SQL Sales Analysis 
+ermmm...
 ## 1. Customer segmentation
 [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 ### Code:
